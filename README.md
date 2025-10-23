@@ -46,4 +46,5 @@ Line Chart (with two series)
 Scatter Plot
 
 Categorical Scatter Plot
-https://github.com/IPSHITATEWARY/social-dashboard/blob/main/Screenshot%202025-10-24%20040230.png
+screenshot
+
