@@ -35,3 +35,4 @@ Children and Pets,Dual-Series Line Chart,Fname vs. Sum of Children (Blue) and Su
 Age vs. Weight,Scatter Plot,Age vs. Weight,"Explores the correlation between these physical attributes; suggests a wide distribution, with one individual notably high in Age (around 80) and moderate in Weight."
 Sum of Weight by Gender,Categorical Dot Plot,Fname and Gender vs. Sum of Weight,"Provides a granular view of weight distribution, showing individual weights segmented by Gender (F and M)."
 visual:
+https://github.com/IPSHITATEWARY/social-dashboard/blob/main/Screenshot%202025-10-24%20040230.png
