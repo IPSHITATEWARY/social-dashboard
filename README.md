@@ -1,18 +1,21 @@
 #Social Dashboard
+
+
+
 Social Demographic Dashboard
 Project Title and Headline
 Social Demographic Dashboard: Individual Attribute Analysis
 
 Short Description
-This dashboard provides a concise, multi-faceted visualization of aggregated demographic and personal attribute data (Age, Weight, Children, Pets) for a small group of individuals, enabling quick comparisons and correlation analysis.
+.This dashboard provides a concise, .multi-faceted visualization of aggregated demographic and .personal attribute data (Age, Weight, Children, Pets) for a small group of individuals, enabling quick comparisons and correlation analysis.
 
-Tech Stack
+Tech Stack:
 Primary Tool: Python (e.g., using libraries like Matplotlib, Seaborn, or Plotly for visualization).
 
-Data Source
+Data Source:
 Personal Records/HR Data (Fields include: Fname, Gender, Age, Weight, Sum of Children, Sum of Pets, State).
 
-Features or Highlights
+Features or Highlights:
 Individual-Centric: Focuses on comparing key metrics across named individuals (Fname).
 
 Dual-Metric Comparison: Uses a line chart to easily compare the count of Children vs. Pets.
